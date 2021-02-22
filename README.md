@@ -46,7 +46,7 @@
   * If the state is stored in RAM on web-server, there is no way to upgrade the site without clearing state forcing users to start over (whatever that means for the site)
 
 ## Do NOT operate in a silo
-> **I cannot stress this enough. **
+> **I cannot stress this enough.**
 
 * Make sure all that information you gathered and documented from the previous 4 items is centrally located and available to everyone.
 * As we introduce on-call shifts, this information could be the difference between a small hiccup, and a 3am ALL HANDS ON DECK scenario.
