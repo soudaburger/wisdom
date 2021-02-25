@@ -1,6 +1,7 @@
 # General Principles
 
 * If you do something once, it's acceptable to do it without automation. If you do it twice, you should automate it if you have time. If you do it three times, you should have automated it already.
+  * "Something" in this case means a thing small enough that it can be replaced by <50 lines of code. It doesn't mean "an entire project".
 
 * Any manual check that you do to determine your service's health can be turned into an automated monitor. Coverage builds confidence, and reduces incident response time.
 
